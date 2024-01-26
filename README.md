@@ -13,3 +13,4 @@ Um exemplo de portfólio simples, demonstrando habilidades e tecnologias em HTML
 ## Demonstração Visual
 ![img-portifolio-s](https://github.com/Alineferk/Portifolio-Simples/assets/87459294/9b9bf276-3ddb-41be-bfc4-f69574690b09)
 
+![img-portifolio-simples](https://github.com/Alineferk/Portifolio-Simples/assets/87459294/bb3f25fc-6871-4afe-a65d-2b901d5b1bd8)
